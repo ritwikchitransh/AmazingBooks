@@ -26,7 +26,7 @@ public class Book {
 		return publishedDate;
 	}
 	public void setPublishedDate(String publishedDate) {
-		this.publishedDate = publishedDate;
+		this.publishedDate = publishedDate;//jii
 	}
 	public int getIsbn() {
 		return isbn;
